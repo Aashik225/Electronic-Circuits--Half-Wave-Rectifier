@@ -39,6 +39,9 @@ To simulate a half wave rectifier circuit and compare the outputs with and witho
 ## Halfwave Rectifier with filter
 <img width="1600" height="797" alt="image" src="https://github.com/user-attachments/assets/75690216-f0c0-4b89-89df-e9958db94276" />
 
-## RESULT:
+## RESULT:![asjik 1](https://github.com/user-attachments/assets/f2056008-7ecb-4915-8c31-c92f5f8c1002)
+
+
+
 
 
